@@ -1,3 +1,4 @@
+<%@ taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "c" %>
     <div class="container">
 
         <div class="row">
@@ -46,7 +47,7 @@
                             <img src="${images}/PRDPQR123WGTX.jpg" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">$889.69</h4>
-                                <h4><a href="">Mobiles</a>
+                                <h4><a>Mobiles</a>
                                 </h4>
                                 <p>Best Mobile Phone based on user ratings</p>
                             </div>
@@ -68,7 +69,7 @@
                             <img src="${images}/PRD3911581FEC.jpg" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">$749.21</h4>
-                                <h4><a target="_blank" href="">Laptops</a>
+                                <h4><a target="_blank" >Laptops</a>
                                 </h4>
                                 <p>Visit this for stunning designs and Latest Models</p>
                             </div>
@@ -90,7 +91,7 @@
                             <img src="${images}/tv.jpg" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">$216.96</h4>
-                                <h4><a href="#">Television</a>
+                                <h4><a>Television</a>
                                 </h4>
                                 <p>This is a short description. beyond the evolution near you.</p>
                             </div>

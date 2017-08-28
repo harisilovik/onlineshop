@@ -11,7 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 public class FileUploadUtility {
 
-	private static final String ABS_PATH = "D:\\eeclipse\\fullcode\\onlineshopping\\src\\main\\webapp\\assets\\images\\";
+	private static final String ABS_PATH = "D:\\projects\\spring\\online-shopping\\onlineshopping\\src\\main\\webapp\\assets\\images\\";
 	private static String REAL_PATH = "";
 	
 	private static final Logger logger = LoggerFactory.getLogger(FileUploadUtility.class);
